@@ -1683,7 +1683,7 @@ export default function App() {
                 setView(
                   title === 'Breakfast'
                     ? 'breakfast'
-                    : title === 'customDinner'
+                    : title === 'Couples Dinner'
                     ? 'customDinner'
                     : 'chooseDate'
                 )
